@@ -34,4 +34,4 @@ You may work as a pair for this final project, but each person of the pair must 
 
 This project must also be submitted as a pull request or it will be subject to a 10% penalty. Late submissions will forego the 10% presentation part of the grade and also be subject to an additional 10% late penalty.  
 
-Please create a clone of this page using the github classrooms link: []()
+Please create a clone of this page using the github classrooms link: [https://classroom.github.com/g/1tL0x6Nn](https://classroom.github.com/g/1tL0x6Nn)
